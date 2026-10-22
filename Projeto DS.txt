@@ -1,0 +1,5 @@
+projeto DS:
+
+conexão com banco de dados, (incluir, alterar e excluir).
+tema: Consultório Veterinário.
+integrantes: Angelo, Davi Ribeiro e Isaac Galvão.
