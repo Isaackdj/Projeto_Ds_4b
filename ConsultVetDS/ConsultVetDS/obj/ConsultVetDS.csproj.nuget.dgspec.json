@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alunos\\source\\repos\\ConsultVetDS\\ConsultVetDS\\ConsultVetDS.csproj": {}
+    "C:\\xampp\\htdocs\\G Leonardo 3DS TB\\Projeto_Ds_4b\\ConsultVetDS\\ConsultVetDS\\ConsultVetDS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alunos\\source\\repos\\ConsultVetDS\\ConsultVetDS\\ConsultVetDS.csproj": {
+    "C:\\xampp\\htdocs\\G Leonardo 3DS TB\\Projeto_Ds_4b\\ConsultVetDS\\ConsultVetDS\\ConsultVetDS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alunos\\source\\repos\\ConsultVetDS\\ConsultVetDS\\ConsultVetDS.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\G Leonardo 3DS TB\\Projeto_Ds_4b\\ConsultVetDS\\ConsultVetDS\\ConsultVetDS.csproj",
         "projectName": "ConsultVetDS",
-        "projectPath": "C:\\Users\\alunos\\source\\repos\\ConsultVetDS\\ConsultVetDS\\ConsultVetDS.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\G Leonardo 3DS TB\\Projeto_Ds_4b\\ConsultVetDS\\ConsultVetDS\\ConsultVetDS.csproj",
         "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alunos\\source\\repos\\ConsultVetDS\\ConsultVetDS\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\G Leonardo 3DS TB\\Projeto_Ds_4b\\ConsultVetDS\\ConsultVetDS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -25,8 +25,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net10.0-windows": {
-            "framework": "net10.0-windows7.0",
+          "net10.0-windows7.0": {
             "targetAlias": "net10.0-windows",
             "projectReferences": {}
           }
@@ -41,11 +40,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net10.0-windows": {
-          "framework": "net10.0-windows7.0",
+        "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
           "imports": [
             "net461",
@@ -66,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
